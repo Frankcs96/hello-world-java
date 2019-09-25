@@ -1,6 +1,35 @@
-<<<<<<< HEAD
+
 # hello world with java :coffee:
-=======
-# Hello world with java
->>>>>>> c097369bb006183e412fc67d9c657a9579eca63d
+
  This is a simple **"Hello world"** done with **java**.
+ 
+ ##Source code
+ 
+ This is the source code of the program:
+ 
+```java
+ public class HelloWorld {
+	
+	public static void main (String[] args) {
+		System.out.println("Hello world!");
+	}
+}
+```
+ 
+ 
+ 
+ 
+ ##Compile program
+ To compile type the following:
+ ```console
+ javac HelloWorld.java
+ ```
+ 
+ ## Execute the program
+ 
+ To execute the program type the following:
+ 
+ ```console
+ java HelloWorld
+ ```
+ 
