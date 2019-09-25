@@ -19,7 +19,7 @@
  
  
  
- ##Compile program
+## Compile program
  To compile type the following:
  ```console
  javac HelloWorld.java
