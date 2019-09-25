@@ -1,5 +1,5 @@
 
-# hello world with java :coffee:
+# Hello world with java :coffee:
 
  This is a simple **"Hello world"** done with **java**.
  
@@ -25,7 +25,7 @@
  javac HelloWorld.java
  ```
  
- ## Execute the program
+ ## Execute program
  
  To execute the program type the following:
  
