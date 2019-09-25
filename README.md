@@ -1,2 +1,2 @@
-# hello world with java
+# hello world with java :coffee:
  This is a simple **"Hello world"** done with **java**.
